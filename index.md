@@ -24,7 +24,7 @@ has_toc: true
   <br>
 <math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> f </mi> <mrow> <mo> ( </mo> <mi> x </mi> <mo> ) </mo> </mrow> <mo> = </mo> <msup> <mrow> <mi> x </mi> </mrow> <mrow> <mn> 2 </mn> </mrow> </msup> </math>
   <br>  
-  <p style=color:red;text-align:left;>$$f\left( x\right) =x^{2}$$</p>  
-  <p style=color:red;text-align:left;>test letters</p>
+  <p>$$f\left( x\right) =x^{2}$$</p>  
+  <p>test letters</p>  
   $$f\left( x\right) =x^{2}$$  
   
