@@ -11,3 +11,5 @@ has_toc: true
 </div>   
    
   $$f\left( x\right) =x^{2}$$     
+  $$\log _{5}\left( x+\sqrt{2-a}\right)$$
+  
