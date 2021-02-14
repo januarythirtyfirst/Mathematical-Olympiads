@@ -10,6 +10,7 @@ has_toc: true
     <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
 </div>   
    
-  $$f\left( x\right) =x^{2}$$     
+  $$f\left( x\right) =x^{2}$$    
+  . Найти все a, при которых уравнение  
   $$\log _{5}\left( x+\sqrt{2-a}\right)$$
   
