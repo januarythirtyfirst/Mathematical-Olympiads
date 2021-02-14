@@ -1,3 +1,10 @@
+---
+layout: default  
+title: test page ... 
+nav_order: 1  
+has_toc: true 
+---  
+
 <!---<!DOCTYPE html>--->
 <html lang="en">
 <head>
