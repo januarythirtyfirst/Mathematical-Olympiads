@@ -17,7 +17,7 @@ has_toc: true
     <title>Document</title>
 </head>
 <body>
-    <string align="left" $$f\left( x\right) =x^{2}$$ </string<br>
+    <p align="left" $$f\left( x\right) =x^{2}$$ </p><br>
 </body>
 </html>
 
