@@ -5,8 +5,7 @@ nav_order: 1
 has_toc: true 
 ---  
 
-<!---<!DOCTYPE html>--->
-<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,7 +18,7 @@ has_toc: true
 <body>
     <p align="left" $$f\left( x\right) =x^{2}$$ </p><br>
 </body>
-</html>
+
 
  <!--------------------------------------------1---------------------------------------------------------->
   <p align="center">
