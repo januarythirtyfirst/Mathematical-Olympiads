@@ -13,7 +13,7 @@ has_toc: true
     <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
 </head>
 <body>
-    <p align="left">$$f\left( x\right) =x^{2}$$</p><br>
+    <p style=color:red;text-align:left;>$$f\left( x\right) =x^{2}$$</p><br>
 </body>
 
 
