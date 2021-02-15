@@ -3,7 +3,11 @@
 title: "Mathematical-Olympiads"
 remote_theme: pmarsceill/just-the-docs  
 
+#Search
+
 search_enabled: true    
+
+#For math - LATEX
 
 markdown: kramdown
 kramdown:
