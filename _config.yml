@@ -13,7 +13,7 @@ kramdown:
 
 aux_links:
   "tools - code":
-    - "https://github.com/januarythirtyfirst/Mathematical-Olympiads/blob/main/index.md"  
+    - "https://github.com/januarythirtyfirst/Mathematical-Olympiads/tree/test"  
     
 # Makes Aux links open in a new tab. Default is false  
 
