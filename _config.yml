@@ -1,0 +1,28 @@
+#Main rules
+
+title: "Mathematical-Olympiads"
+remote_theme: pmarsceill/just-the-docs  
+
+#Search
+
+search_enabled: true    
+
+#For math - LATEX
+
+markdown: kramdown
+kramdown:
+    math_engine: katex
+    
+# Aux links for the upper right navigation  
+
+aux_links:
+  "tools - code":
+    - "https://github.com/januarythirtyfirst/Mathematical-Olympiads/tree/test"  
+    
+# Makes Aux links open in a new tab. Default is false  
+
+aux_links_new_tab: true   
+
+# does not working?
+back_to_top: true
+back_to_top_text: "Back to top"  
